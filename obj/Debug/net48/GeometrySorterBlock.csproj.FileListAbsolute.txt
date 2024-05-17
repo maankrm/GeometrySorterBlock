@@ -1,0 +1,11 @@
+E:\My-Github\GeometrySorterBlock\bin\Debug\net48\GeometrySorterBlock.gha
+E:\My-Github\GeometrySorterBlock\bin\Debug\net48\GeometrySorterBlock.pdb
+E:\My-Github\GeometrySorterBlock\obj\Debug\net48\GeometrySorterBlock.GeneratedMSBuildEditorConfig.editorconfig
+E:\My-Github\GeometrySorterBlock\obj\Debug\net48\GeometrySorterBlock.AssemblyInfoInputs.cache
+E:\My-Github\GeometrySorterBlock\obj\Debug\net48\GeometrySorterBlock.AssemblyInfo.cs
+E:\My-Github\GeometrySorterBlock\obj\Debug\net48\GeometrySorterBlock.csproj.CoreCompileInputs.cache
+E:\My-Github\GeometrySorterBlock\obj\Debug\net48\GeometrySorterBlock.gha
+E:\My-Github\GeometrySorterBlock\obj\Debug\net48\GeometrySorterBlock.pdb
+E:\My-Github\GeometrySorterBlock\obj\Debug\net48\GeometrySorterBlock.Properties.Resources.resources
+E:\My-Github\GeometrySorterBlock\obj\Debug\net48\GeometrySorterBlock.csproj.GenerateResource.cache
+E:\My-Github\GeometrySorterBlock\bin\Debug\net48\Resources\sort_G_03.png

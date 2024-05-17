@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4zXpUeMaXSfIdc4YYPlA1yxT2sL53v2d7o/G9nTbGrm1DkLhyA012FkCpX4uSyavaBsJIcY5bIZzRYF0FhZuzw==",
+  "success": true,
+  "projectFilePath": "E:\\My-Github\\GeometrySorterBlock\\GeometrySorterBlock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ma3an\\.nuget\\packages\\grasshopper\\7.0.20314.3001\\grasshopper.7.0.20314.3001.nupkg.sha512",
+    "C:\\Users\\Ma3an\\.nuget\\packages\\rhinocommon\\7.0.20314.3001\\rhinocommon.7.0.20314.3001.nupkg.sha512"
+  ],
+  "logs": []
+}
